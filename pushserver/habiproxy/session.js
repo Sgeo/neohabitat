@@ -82,9 +82,9 @@ class HabitatSession {
       case 0:
         return 'West';
       case 1:
-        return 'East';
-      case 2:
         return 'North';
+      case 2:
+        return 'East';
       case 3:
         return 'South';
       default:
